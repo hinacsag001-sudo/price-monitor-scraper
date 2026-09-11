@@ -1,4 +1,5 @@
 {
+  "devCommand": "uvicorn app:app --reload",
   "builds": [
     {
       "src": "app.py",
