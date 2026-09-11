@@ -1,0 +1,21 @@
+# Environment variables (SENSITIVE)
+.env
+
+# Virtual Environment & Executables
+venv/
+env/
+ENV/
+bin/
+Scripts/
+
+# Database files (Local)
+*.db
+*.sqlite3
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm configuration
+.idea/
